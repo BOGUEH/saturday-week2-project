@@ -1,0 +1,22 @@
+.App{
+
+
+background: #FFFFFF;
+
+}
+/* Emergency Reporting just got way Cooler!!! */
+#navbar{
+    position: fixed;
+    width: 100%;
+
+}
+
+
+.testimony{
+    background-color: #FFF6F6;
+}
+
+section{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
